@@ -13,6 +13,7 @@ import java.util.Date;
 public class Jogo {
     private String titulo;
     private String ano;
+    private String plataformas; 
     
     Jogo (String titulo){
         this.titulo = titulo;
